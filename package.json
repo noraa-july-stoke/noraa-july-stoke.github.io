@@ -1,0 +1,23 @@
+{
+  "name": "noraa-july-stoke",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js/main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noraa-july-stoke/noraa-july-stoke.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noraa-july-stoke/noraa-july-stoke.github.io/issues"
+  },
+  "homepage": "https://github.com/noraa-july-stoke/noraa-july-stoke.github.io#readme"
+}
